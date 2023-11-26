@@ -1,0 +1,17 @@
+(footprint "ST-0-102-A01-T000-LF" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp c16d691d-4cb5-4c13-a7cc-3237105342ba)
+  )
+  (fp_text value "ST-0-102-A01-T000-LF" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a522bcea-4fab-4089-805c-befc8d29c8ab)
+  )
+  (fp_rect (start -4.15 -2.6) (end 4.15 2.6)
+    (stroke (width 0.12) (type default)) (fill none) (layer "F.SilkS") (tstamp bcd3e5aa-080c-479d-9155-8008eff82327))
+  (pad "1" thru_hole oval (at -2.54 0 90) (size 2.7 1.5) (drill oval 1.86 0.8) (layers "*.Cu" "*.Mask") (tstamp 63d5d6c6-a857-4ace-a325-b06cd7a24bee))
+  (pad "2" thru_hole oval (at 0 0 90) (size 2.7 1.5) (drill oval 1.86 0.8) (layers "*.Cu" "*.Mask") (tstamp c2583440-b258-4328-acc4-a79e35331719))
+  (pad "3" thru_hole oval (at 2.54 0 90) (size 2.7 1.5) (drill oval 1.86 0.8) (layers "*.Cu" "*.Mask") (tstamp 72fce03a-0105-4926-9839-b29114cd10eb))
+)
