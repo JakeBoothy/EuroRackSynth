@@ -1648,10 +1648,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R342") (unit 1)
@@ -1663,7 +1663,7 @@
   (symbol (lib_id "Device:C") (at 158.75 182.88 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 12fdf67a-7a72-4b57-8399-f29c8ec44ef0)
-    (property "Reference" "C7" (at 165.1508 182.88 90)
+    (property "Reference" "C?" (at 165.1508 182.88 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "47nF" (at 162.8394 182.88 90)
@@ -1680,16 +1680,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C7") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "C156") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "C176") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "C186") (unit 1)
+          (reference "C187") (unit 1)
         )
       )
     )
@@ -1698,7 +1698,7 @@
   (symbol (lib_id "Diode:1N914") (at 173.99 61.595 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1357ce4d-8309-4b0b-9ad8-69a6deca1ad4)
-    (property "Reference" "D30" (at 173.99 56.0832 0)
+    (property "Reference" "D?" (at 173.99 56.0832 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N914" (at 173.99 58.3946 0)
@@ -1715,16 +1715,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006620617f"
-          (reference "D30") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "D83") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "D92") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "D97") (unit 1)
@@ -1763,7 +1763,7 @@
   (symbol (lib_id "Diode:1N914") (at 176.53 78.105 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1971cc1f-f039-4b2c-92fc-f01c741897d3)
-    (property "Reference" "D30" (at 176.53 72.5932 0)
+    (property "Reference" "D?" (at 176.53 72.5932 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1N914" (at 176.53 74.9046 0)
@@ -1780,16 +1780,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006620617f"
-          (reference "D30") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "D83") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "D92") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "D98") (unit 1)
@@ -1801,7 +1801,7 @@
   (symbol (lib_id "Device:C") (at 119.38 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a1165e4-29f7-4460-acdb-b44a13625336)
-    (property "Reference" "C6" (at 125.7808 44.45 90)
+    (property "Reference" "C?" (at 125.7808 44.45 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "470pF" (at 123.4694 44.45 90)
@@ -1818,16 +1818,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C6") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "C155") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "C175") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "C180") (unit 1)
+          (reference "C181") (unit 1)
         )
       )
     )
@@ -1836,7 +1836,7 @@
   (symbol (lib_id "power:GNDREF") (at 119.38 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 22f7582e-1f42-4310-8fd4-fe6b988f3a7c)
-    (property "Reference" "#PWR017" (at 119.38 62.23 0)
+    (property "Reference" "#PWR?" (at 119.38 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 119.507 60.2742 0)
@@ -1852,16 +1852,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0353") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0402") (unit 1)
+          (reference "#PWR0410") (unit 1)
         )
       )
     )
@@ -1870,7 +1870,7 @@
   (symbol (lib_id "power:GNDREF") (at 132.08 140.335 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 357b7b5e-de91-4eb0-bc57-44444662336c)
-    (property "Reference" "#PWR017" (at 132.08 146.685 0)
+    (property "Reference" "#PWR?" (at 132.08 146.685 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 132.207 144.7292 0)
@@ -1886,16 +1886,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0353") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0403") (unit 1)
+          (reference "#PWR0411") (unit 1)
         )
       )
     )
@@ -1959,10 +1959,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R344") (unit 1)
@@ -1980,7 +1980,7 @@
     (property "Value" "SW_Push_DPDT" (at 102.87 128.4661 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "" (at 102.87 113.665 0)
+    (property "Footprint" "SynthProjConnectors:MTS-203-A1-T0" (at 102.87 113.665 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 102.87 113.665 0)
@@ -2000,7 +2000,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/bf5024d8-e176-4aac-a2d8-4c0a3d62967e"
-          (reference "SW30") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "SW48") (unit 1)
@@ -2012,7 +2012,7 @@
   (symbol (lib_id "power:GNDREF") (at 107.95 123.825 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4dec4e64-9f95-4f04-83f3-39405c423d7d)
-    (property "Reference" "#PWR017" (at 107.95 130.175 0)
+    (property "Reference" "#PWR?" (at 107.95 130.175 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 108.077 128.2192 0)
@@ -2028,16 +2028,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0353") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0401") (unit 1)
+          (reference "#PWR0409") (unit 1)
         )
       )
     )
@@ -2046,7 +2046,7 @@
   (symbol (lib_id "Device:C") (at 146.05 175.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 608d642f-99bb-41a1-af09-ab77465611e2)
-    (property "Reference" "C2" (at 152.4508 175.26 90)
+    (property "Reference" "C?" (at 152.4508 175.26 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7uF" (at 150.1394 175.26 90)
@@ -2063,16 +2063,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C2") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "C151") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "C171") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "C181") (unit 1)
+          (reference "C182") (unit 1)
         )
       )
     )
@@ -2081,7 +2081,7 @@
   (symbol (lib_id "Device:C") (at 146.05 182.88 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6479ffb3-8c97-4fe0-a131-553180acc27c)
-    (property "Reference" "C3" (at 152.4508 182.88 90)
+    (property "Reference" "C?" (at 152.4508 182.88 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "4.7uF" (at 150.1394 182.88 90)
@@ -2098,16 +2098,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C3") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "C152") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "C172") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "C182") (unit 1)
+          (reference "C183") (unit 1)
         )
       )
     )
@@ -2144,10 +2144,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R340") (unit 1)
@@ -2159,7 +2159,7 @@
   (symbol (lib_id "power:+12V") (at 205.105 75.565 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66182aef-aec1-4ad7-a99c-db70252937fd)
-    (property "Reference" "#PWR018" (at 205.105 79.375 0)
+    (property "Reference" "#PWR?" (at 205.105 79.375 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 205.486 71.1708 0)
@@ -2175,16 +2175,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0226") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0354") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0411") (unit 1)
+          (reference "#PWR0419") (unit 1)
         )
       )
     )
@@ -2221,10 +2221,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R345") (unit 1)
@@ -2264,10 +2264,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R338") (unit 1)
@@ -2279,7 +2279,7 @@
   (symbol (lib_id "Device:C") (at 158.75 175.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8351e633-0418-4a6d-88be-58ae61120481)
-    (property "Reference" "C6" (at 165.1508 175.26 90)
+    (property "Reference" "C?" (at 165.1508 175.26 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "47nF" (at 162.8394 175.26 90)
@@ -2296,16 +2296,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C6") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "C155") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "C175") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "C185") (unit 1)
+          (reference "C186") (unit 1)
         )
       )
     )
@@ -2342,10 +2342,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R339") (unit 1)
@@ -2357,7 +2357,7 @@
   (symbol (lib_id "power:+12V") (at 170.18 45.085 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8dea9627-1a7b-4609-956d-5290229867fd)
-    (property "Reference" "#PWR018" (at 170.18 48.895 0)
+    (property "Reference" "#PWR?" (at 170.18 48.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 170.561 40.6908 0)
@@ -2373,16 +2373,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0226") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0354") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0410") (unit 1)
+          (reference "#PWR0418") (unit 1)
         )
       )
     )
@@ -2446,10 +2446,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R343") (unit 1)
@@ -2461,7 +2461,7 @@
   (symbol (lib_id "power:GNDREF") (at 161.925 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a4697e32-191a-49ab-b46e-96158239bcd3)
-    (property "Reference" "#PWR017" (at 161.925 104.14 0)
+    (property "Reference" "#PWR?" (at 161.925 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 162.052 102.1842 0)
@@ -2477,16 +2477,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0353") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0409") (unit 1)
+          (reference "#PWR0417") (unit 1)
         )
       )
     )
@@ -2495,13 +2495,13 @@
   (symbol (lib_id "Switch:SW_SPDT") (at 196.215 59.055 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aa830616-fc64-4b06-994b-c9aa1db92bbf)
-    (property "Reference" "SW11" (at 196.215 51.816 0)
+    (property "Reference" "SW?" (at 196.215 51.816 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPDT" (at 196.215 54.1274 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SynthProjConnectors:ST-0-102-A01-T000-LF" (at 196.215 59.055 0)
+    (property "Footprint" "SynthProjConnectors:MTS-103-A01-T0" (at 196.215 59.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 196.215 59.055 0)
@@ -2513,7 +2513,7 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
-          (reference "SW11") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "SW50") (unit 1)
@@ -2525,7 +2525,7 @@
   (symbol (lib_id "4xxx:40106") (at 136.525 97.79 0) (unit 5)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid afee8b0a-e37a-46be-a9b0-98f254c94dad)
-    (property "Reference" "U32" (at 136.525 89.8357 0)
+    (property "Reference" "U?" (at 136.525 89.8357 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "40106" (at 136.525 92.2599 0)
@@ -2554,7 +2554,7 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "U32") (unit 5)
+          (reference "U?") (unit 5)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "U34") (unit 5)
@@ -2566,7 +2566,7 @@
   (symbol (lib_id "power:+12V") (at 146.05 171.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b0fedab7-c6ac-43f9-8753-2a33b9d84b27)
-    (property "Reference" "#PWR018" (at 146.05 175.26 0)
+    (property "Reference" "#PWR?" (at 146.05 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 146.431 167.0558 0)
@@ -2582,16 +2582,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0226") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0354") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0405") (unit 1)
+          (reference "#PWR0413") (unit 1)
         )
       )
     )
@@ -2600,7 +2600,7 @@
   (symbol (lib_id "power:GNDREF") (at 205.105 100.965 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b60880ab-7f06-4dde-a64f-bfcf408822c9)
-    (property "Reference" "#PWR017" (at 205.105 107.315 0)
+    (property "Reference" "#PWR?" (at 205.105 107.315 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 205.232 105.3592 0)
@@ -2616,16 +2616,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0353") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0412") (unit 1)
+          (reference "#PWR0420") (unit 1)
         )
       )
     )
@@ -2662,10 +2662,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R337") (unit 1)
@@ -2677,7 +2677,7 @@
   (symbol (lib_id "4xxx:4013") (at 130.175 64.135 0) (unit 2)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bb18c5e2-b422-4d9e-9d11-79cc354cd96b)
-    (property "Reference" "U37" (at 132.3691 54.9107 0)
+    (property "Reference" "U?" (at 132.3691 54.9107 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4013" (at 132.3691 57.3349 0)
@@ -2706,7 +2706,7 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "U37") (unit 2)
+          (reference "U?") (unit 2)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "U33") (unit 2)
@@ -2718,7 +2718,7 @@
   (symbol (lib_id "Device:C") (at 152.4 182.88 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid da81a97c-c575-43ae-8414-b0550aa837e6)
-    (property "Reference" "C5" (at 158.8008 182.88 90)
+    (property "Reference" "C?" (at 158.8008 182.88 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "470nF" (at 156.4894 182.88 90)
@@ -2735,16 +2735,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C5") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "C154") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "C174") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "C184") (unit 1)
+          (reference "C185") (unit 1)
         )
       )
     )
@@ -2753,7 +2753,7 @@
   (symbol (lib_id "4xxx:40106") (at 164.465 116.205 0) (unit 6)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dcd1a7ee-a73f-4f56-9984-f70ce0df684f)
-    (property "Reference" "U32" (at 164.465 108.2507 0)
+    (property "Reference" "U?" (at 164.465 108.2507 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "40106" (at 164.465 110.6749 0)
@@ -2782,7 +2782,7 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "U32") (unit 6)
+          (reference "U?") (unit 6)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "U34") (unit 6)
@@ -2794,7 +2794,7 @@
   (symbol (lib_id "power:+12V") (at 147.32 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0af2c4b-f093-441f-bfe4-1aa9a0669771)
-    (property "Reference" "#PWR018" (at 147.32 129.54 0)
+    (property "Reference" "#PWR?" (at 147.32 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 147.701 121.3358 0)
@@ -2810,16 +2810,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0226") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0354") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0407") (unit 1)
+          (reference "#PWR0415") (unit 1)
         )
       )
     )
@@ -2828,7 +2828,7 @@
   (symbol (lib_id "Amplifier_Operational:TL074") (at 119.38 170.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e279f76b-7458-45d2-af58-e8affa7ac843)
-    (property "Reference" "U36" (at 119.38 160.9557 0)
+    (property "Reference" "U?" (at 119.38 160.9557 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "TL074" (at 119.38 163.3799 0)
@@ -2857,7 +2857,7 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "U36") (unit 1)
+          (reference "U?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "U36") (unit 1)
@@ -2891,10 +2891,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/bf5024d8-e176-4aac-a2d8-4c0a3d62967e"
-          (reference "D50") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "D87") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "D96") (unit 1)
@@ -2906,7 +2906,7 @@
   (symbol (lib_id "power:-12V") (at 146.05 186.69 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ebe2e821-b107-4630-a3de-94b8b1b8fa4c)
-    (property "Reference" "#PWR019" (at 146.05 189.23 0)
+    (property "Reference" "#PWR?" (at 146.05 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "-12V" (at 145.669 191.0842 0)
@@ -2922,16 +2922,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0227") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0355") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0406") (unit 1)
+          (reference "#PWR0414") (unit 1)
         )
       )
     )
@@ -2968,10 +2968,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/627a6224-0696-4472-8130-0038baa573b5"
-          (reference "R237") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "R334") (unit 1)
+          (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "R341") (unit 1)
@@ -2983,13 +2983,13 @@
   (symbol (lib_id "Switch:SW_SPDT") (at 137.16 116.205 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f0186868-46d9-4658-a003-e462c9697a64)
-    (property "Reference" "SW11" (at 137.16 108.966 0)
+    (property "Reference" "SW?" (at 137.16 108.966 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_SPDT" (at 137.16 111.2774 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SynthProjConnectors:ST-0-102-A01-T000-LF" (at 137.16 116.205 0)
+    (property "Footprint" "SynthProjConnectors:MTS-103-A01-T0" (at 137.16 116.205 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.16 116.205 0)
@@ -3001,7 +3001,7 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
-          (reference "SW11") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "SW49") (unit 1)
@@ -3013,7 +3013,7 @@
   (symbol (lib_id "power:GNDREF") (at 142.24 179.07 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f6fbd95d-e214-46fa-a91f-25628d4ea18a)
-    (property "Reference" "#PWR017" (at 135.89 179.07 0)
+    (property "Reference" "#PWR?" (at 135.89 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 137.8458 179.197 0)
@@ -3029,16 +3029,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0353") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0404") (unit 1)
+          (reference "#PWR0412") (unit 1)
         )
       )
     )
@@ -3047,7 +3047,7 @@
   (symbol (lib_id "power:GNDREF") (at 157.48 78.105 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f96d1a10-c6b7-40b9-b1ed-a5e1b7bf83b8)
-    (property "Reference" "#PWR017" (at 157.48 84.455 0)
+    (property "Reference" "#PWR?" (at 157.48 84.455 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 157.607 82.4992 0)
@@ -3063,16 +3063,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "#PWR0353") (unit 1)
+          (reference "#PWR?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "#PWR0408") (unit 1)
+          (reference "#PWR0416") (unit 1)
         )
       )
     )
@@ -3081,7 +3081,7 @@
   (symbol (lib_id "Device:C") (at 152.4 175.26 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f97d602d-2c02-4acb-a907-4288030aaee7)
-    (property "Reference" "C4" (at 158.75 175.26 90)
+    (property "Reference" "C?" (at 158.75 175.26 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "470nF" (at 156.4894 175.26 90)
@@ -3098,16 +3098,16 @@
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C4") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
-          (reference "C153") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "C173") (unit 1)
+          (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "C183") (unit 1)
+          (reference "C184") (unit 1)
         )
       )
     )
@@ -3138,10 +3138,10 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/bf5024d8-e176-4aac-a2d8-4c0a3d62967e"
-          (reference "D50") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/891afddb-f75e-4ea6-80b3-8ff315aac97b"
-          (reference "D87") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
           (reference "D99") (unit 1)

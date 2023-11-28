@@ -2087,7 +2087,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0249") (unit 1)
+          (reference "#PWR0256") (unit 1)
         )
       )
     )
@@ -2117,7 +2117,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0239") (unit 1)
+          (reference "#PWR0246") (unit 1)
         )
       )
     )
@@ -2132,7 +2132,7 @@
     (property "Value" "SW_Push" (at 52.07 111.76 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 52.07 111.76 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H13mm" (at 52.07 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 52.07 111.76 0)
@@ -2178,7 +2178,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0235") (unit 1)
+          (reference "#PWR0242") (unit 1)
         )
       )
     )
@@ -2208,7 +2208,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0247") (unit 1)
+          (reference "#PWR0254") (unit 1)
         )
       )
     )
@@ -2239,7 +2239,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C106") (unit 1)
+          (reference "C107") (unit 1)
         )
       )
     )
@@ -2301,7 +2301,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C102") (unit 1)
+          (reference "C103") (unit 1)
         )
       )
     )
@@ -2369,7 +2369,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C109") (unit 1)
+          (reference "C110") (unit 1)
         )
       )
     )
@@ -2604,7 +2604,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0238") (unit 1)
+          (reference "#PWR0245") (unit 1)
         )
       )
     )
@@ -2678,7 +2678,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C96") (unit 1)
+          (reference "C97") (unit 1)
         )
       )
     )
@@ -2739,7 +2739,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0241") (unit 1)
+          (reference "#PWR0248") (unit 1)
         )
       )
     )
@@ -2801,7 +2801,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C108") (unit 1)
+          (reference "C109") (unit 1)
         )
       )
     )
@@ -2998,7 +2998,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0236") (unit 1)
+          (reference "#PWR0243") (unit 1)
         )
       )
     )
@@ -3059,7 +3059,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0243") (unit 1)
+          (reference "#PWR0250") (unit 1)
         )
       )
     )
@@ -3090,7 +3090,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C101") (unit 1)
+          (reference "C102") (unit 1)
         )
       )
     )
@@ -3120,7 +3120,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0232") (unit 1)
+          (reference "#PWR0239") (unit 1)
         )
       )
     )
@@ -3135,7 +3135,7 @@
     (property "Value" "SW_Push" (at 194.31 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 194.31 93.98 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H13mm" (at 194.31 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 194.31 93.98 0)
@@ -3213,7 +3213,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C100") (unit 1)
+          (reference "C101") (unit 1)
         )
       )
     )
@@ -3244,7 +3244,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C94") (unit 1)
+          (reference "C95") (unit 1)
         )
       )
     )
@@ -3274,7 +3274,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0250") (unit 1)
+          (reference "#PWR0257") (unit 1)
         )
       )
     )
@@ -3305,7 +3305,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C99") (unit 1)
+          (reference "C100") (unit 1)
         )
       )
     )
@@ -3335,7 +3335,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0227") (unit 1)
+          (reference "#PWR0234") (unit 1)
         )
       )
     )
@@ -3408,7 +3408,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0245") (unit 1)
+          (reference "#PWR0252") (unit 1)
         )
       )
     )
@@ -3469,7 +3469,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0246") (unit 1)
+          (reference "#PWR0253") (unit 1)
         )
       )
     )
@@ -3598,7 +3598,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0233") (unit 1)
+          (reference "#PWR0240") (unit 1)
         )
       )
     )
@@ -3629,7 +3629,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C107") (unit 1)
+          (reference "C108") (unit 1)
         )
       )
     )
@@ -3758,7 +3758,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0244") (unit 1)
+          (reference "#PWR0251") (unit 1)
         )
       )
     )
@@ -3819,7 +3819,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0242") (unit 1)
+          (reference "#PWR0249") (unit 1)
         )
       )
     )
@@ -4022,7 +4022,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0224") (unit 1)
+          (reference "#PWR0231") (unit 1)
         )
       )
     )
@@ -4208,7 +4208,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0230") (unit 1)
+          (reference "#PWR0237") (unit 1)
         )
       )
     )
@@ -4349,7 +4349,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0226") (unit 1)
+          (reference "#PWR0233") (unit 1)
         )
       )
     )
@@ -4379,7 +4379,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0237") (unit 1)
+          (reference "#PWR0244") (unit 1)
         )
       )
     )
@@ -4483,7 +4483,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0221") (unit 1)
+          (reference "#PWR0228") (unit 1)
         )
       )
     )
@@ -4576,7 +4576,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C105") (unit 1)
+          (reference "C106") (unit 1)
         )
       )
     )
@@ -4643,7 +4643,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0228") (unit 1)
+          (reference "#PWR0235") (unit 1)
         )
       )
     )
@@ -4704,7 +4704,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0231") (unit 1)
+          (reference "#PWR0238") (unit 1)
         )
       )
     )
@@ -4734,7 +4734,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0229") (unit 1)
+          (reference "#PWR0236") (unit 1)
         )
       )
     )
@@ -4808,7 +4808,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C93") (unit 1)
+          (reference "C94") (unit 1)
         )
       )
     )
@@ -4940,7 +4940,7 @@
     (property "Value" "SW_Push" (at 49.53 41.91 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 49.53 41.91 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H13mm" (at 49.53 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 49.53 41.91 0)
@@ -5017,7 +5017,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0248") (unit 1)
+          (reference "#PWR0255") (unit 1)
         )
       )
     )
@@ -5047,7 +5047,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0223") (unit 1)
+          (reference "#PWR0230") (unit 1)
         )
       )
     )
@@ -5078,7 +5078,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C97") (unit 1)
+          (reference "C98") (unit 1)
         )
       )
     )
@@ -5151,7 +5151,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0251") (unit 1)
+          (reference "#PWR0258") (unit 1)
         )
       )
     )
@@ -5246,7 +5246,7 @@
     (property "Value" "SW_Push" (at 49.53 27.94 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 49.53 27.94 0)
+    (property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H13mm" (at 49.53 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 49.53 27.94 0)
@@ -5292,7 +5292,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0234") (unit 1)
+          (reference "#PWR0241") (unit 1)
         )
       )
     )
@@ -5323,7 +5323,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C98") (unit 1)
+          (reference "C99") (unit 1)
         )
       )
     )
@@ -5354,7 +5354,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C103") (unit 1)
+          (reference "C104") (unit 1)
         )
       )
     )
@@ -5384,7 +5384,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0222") (unit 1)
+          (reference "#PWR0229") (unit 1)
         )
       )
     )
@@ -5415,7 +5415,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C92") (unit 1)
+          (reference "C93") (unit 1)
         )
       )
     )
@@ -5489,7 +5489,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C104") (unit 1)
+          (reference "C105") (unit 1)
         )
       )
     )
@@ -5563,7 +5563,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "C95") (unit 1)
+          (reference "C96") (unit 1)
         )
       )
     )
@@ -5624,7 +5624,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0240") (unit 1)
+          (reference "#PWR0247") (unit 1)
         )
       )
     )
@@ -5833,7 +5833,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0225") (unit 1)
+          (reference "#PWR0232") (unit 1)
         )
       )
     )
@@ -5906,7 +5906,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0220") (unit 1)
+          (reference "#PWR0227") (unit 1)
         )
       )
     )
@@ -5936,7 +5936,7 @@
       )
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/83f63f47-5f59-465e-b73f-db84e2bb89da"
-          (reference "#PWR0252") (unit 1)
+          (reference "#PWR0259") (unit 1)
         )
       )
     )
