@@ -1474,7 +1474,7 @@
     (property "Value" "100k" (at 158.3182 114.173 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" (at 160.02 113.03 0)
+    (property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_TC33X_Vertical" (at 160.02 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 113.03 0)
