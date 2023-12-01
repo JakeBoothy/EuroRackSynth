@@ -2488,7 +2488,7 @@
   (symbol (lib_id "power:GNDREF") (at 78.74 138.43 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 00fc5a72-9e91-4a3e-b8ac-b057867745e9)
-    (property "Reference" "#PWR?" (at 78.74 144.78 0)
+    (property "Reference" "#PWR0340" (at 78.74 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 78.74 142.5631 0)
@@ -2503,9 +2503,6 @@
     (pin "1" (uuid 4c0f78cd-ed8b-4104-8ede-5cb1504cf60a))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0340") (unit 1)
         )
@@ -2536,9 +2533,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -2598,9 +2592,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "C?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "C154") (unit 1)
         )
@@ -2631,9 +2622,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -2729,9 +2717,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "C?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "C157") (unit 1)
         )
@@ -2764,9 +2749,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R286") (unit 1)
         )
@@ -2777,7 +2759,7 @@
   (symbol (lib_id "power:GNDREF") (at 203.2 64.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0c652f10-f1ab-4d7b-a8e9-2546062abf43)
-    (property "Reference" "#PWR?" (at 203.2 71.12 0)
+    (property "Reference" "#PWR0358" (at 203.2 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 203.2 68.9031 0)
@@ -2792,9 +2774,6 @@
     (pin "1" (uuid 5332aa90-ba22-449e-bb2a-119bc7b94597))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0358") (unit 1)
         )
@@ -2845,7 +2824,7 @@
   (symbol (lib_id "power:GNDREF") (at 142.24 143.51 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f886bd1-8cd5-4872-86ba-7cc2b42d0f9b)
-    (property "Reference" "#PWR?" (at 142.24 149.86 0)
+    (property "Reference" "#PWR0349" (at 142.24 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 142.24 147.6431 0)
@@ -2860,9 +2839,6 @@
     (pin "1" (uuid 5ddbce94-6237-4ce7-9366-a3de9a1fe206))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0349") (unit 1)
         )
@@ -2922,9 +2898,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "C?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "C148") (unit 1)
         )
@@ -2957,9 +2930,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R288") (unit 1)
         )
@@ -2990,9 +2960,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -3175,9 +3142,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R284") (unit 1)
         )
@@ -3188,7 +3152,7 @@
   (symbol (lib_id "power:GNDREF") (at 63.5 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 242807cc-0146-4501-b3fc-7df4c3dad063)
-    (property "Reference" "#PWR?" (at 63.5 67.31 0)
+    (property "Reference" "#PWR0334" (at 63.5 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 63.5 65.0931 0)
@@ -3203,9 +3167,6 @@
     (pin "1" (uuid 53aa2e75-61cb-4e0a-8a83-14c560a9a05a))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0334") (unit 1)
         )
@@ -3264,9 +3225,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -3329,9 +3287,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R303") (unit 1)
         )
@@ -3362,9 +3317,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -3399,9 +3351,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R266") (unit 1)
         )
@@ -3432,9 +3381,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -3469,9 +3415,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R283") (unit 1)
         )
@@ -3502,9 +3445,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -3564,9 +3504,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R280") (unit 1)
         )
@@ -3605,7 +3542,7 @@
   (symbol (lib_id "power:GNDREF") (at 102.87 107.95 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3801ea2d-ca3a-4e8e-9a4d-7fffe078f717)
-    (property "Reference" "#PWR?" (at 102.87 114.3 0)
+    (property "Reference" "#PWR0347" (at 102.87 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 102.87 112.0831 0)
@@ -3620,9 +3557,6 @@
     (pin "1" (uuid 8cc27179-7c97-4718-96ec-91e07d98ba85))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0347") (unit 1)
         )
@@ -3633,7 +3567,7 @@
   (symbol (lib_id "power:GNDREF") (at 67.31 91.44 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3828b328-23ee-4d28-a83e-ef6555b2bd0b)
-    (property "Reference" "#PWR?" (at 67.31 97.79 0)
+    (property "Reference" "#PWR0337" (at 67.31 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 67.31 95.5731 0)
@@ -3648,9 +3582,6 @@
     (pin "1" (uuid f9b81027-542a-48e3-b88e-8ee0d8ef0150))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0337") (unit 1)
         )
@@ -3681,9 +3612,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -3718,9 +3646,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R270") (unit 1)
         )
@@ -3751,9 +3676,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -3788,9 +3710,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R268") (unit 1)
         )
@@ -3823,9 +3742,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "C?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "C155") (unit 1)
         )
@@ -3836,7 +3752,7 @@
   (symbol (lib_id "power:GNDREF") (at 142.24 80.01 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 44ebb048-589e-4549-80f1-a9b906a2bbf0)
-    (property "Reference" "#PWR?" (at 142.24 86.36 0)
+    (property "Reference" "#PWR0348" (at 142.24 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 142.24 84.1431 0)
@@ -3851,9 +3767,6 @@
     (pin "1" (uuid 1beb02b3-b5a0-40ab-9a02-b5b6d2dd42c3))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0348") (unit 1)
         )
@@ -3913,9 +3826,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R296") (unit 1)
         )
@@ -3946,9 +3856,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -4011,9 +3918,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R272") (unit 1)
         )
@@ -4071,9 +3975,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R271") (unit 1)
         )
@@ -4104,9 +4005,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -4175,9 +4073,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463"
           (reference "RV?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "RV?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "RV78") (unit 1)
         )
@@ -4226,7 +4121,7 @@
   (symbol (lib_id "power:GNDREF") (at 205.74 158.75 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 59b310cc-8b2c-4255-9e4d-e019ddca1cc9)
-    (property "Reference" "#PWR?" (at 205.74 165.1 0)
+    (property "Reference" "#PWR0359" (at 205.74 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 205.74 162.8831 0)
@@ -4241,9 +4136,6 @@
     (pin "1" (uuid 94c24880-1f4c-420d-a29e-5c2d4d066c1f))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0359") (unit 1)
         )
@@ -4274,9 +4166,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -4386,7 +4275,7 @@
   (symbol (lib_id "power:GNDREF") (at 48.26 128.27 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 684975cc-84f1-4f58-9bb8-a907bede2e06)
-    (property "Reference" "#PWR?" (at 48.26 134.62 0)
+    (property "Reference" "#PWR0327" (at 48.26 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 48.26 132.4031 0)
@@ -4401,9 +4290,6 @@
     (pin "1" (uuid f8d3c68a-d881-45a2-a2f4-141419991ece))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0327") (unit 1)
         )
@@ -4434,9 +4320,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -4475,9 +4358,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463"
           (reference "RV?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "RV?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "RV76") (unit 1)
         )
@@ -4510,9 +4390,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R277") (unit 1)
         )
@@ -4543,9 +4420,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -4723,9 +4597,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R300") (unit 1)
         )
@@ -4756,9 +4627,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -4793,9 +4661,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R285") (unit 1)
         )
@@ -4828,9 +4693,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "C?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "C150") (unit 1)
         )
@@ -4841,7 +4703,7 @@
   (symbol (lib_id "power:GNDREF") (at 166.37 74.93 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7a0771b6-cbe5-4da2-b251-9d7d512e76e7)
-    (property "Reference" "#PWR?" (at 166.37 81.28 0)
+    (property "Reference" "#PWR0351" (at 166.37 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 166.37 79.0631 0)
@@ -4856,9 +4718,6 @@
     (pin "1" (uuid 94d7ac82-7455-43d8-ad7d-9844246594d0))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0351") (unit 1)
         )
@@ -4869,7 +4728,7 @@
   (symbol (lib_id "power:GNDREF") (at 196.85 39.37 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7e3ae692-f40c-403c-9259-c3e440dc4f79)
-    (property "Reference" "#PWR?" (at 196.85 45.72 0)
+    (property "Reference" "#PWR0357" (at 196.85 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 196.85 43.5031 0)
@@ -4884,9 +4743,6 @@
     (pin "1" (uuid 2df44140-342a-44e9-b0c1-a7e04fa38b41))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0357") (unit 1)
         )
@@ -4919,9 +4775,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R267") (unit 1)
         )
@@ -4952,9 +4805,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -5017,9 +4867,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R289") (unit 1)
         )
@@ -5056,9 +4903,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463"
           (reference "RV?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "RV?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "RV75") (unit 1)
         )
@@ -5091,9 +4935,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R274") (unit 1)
         )
@@ -5124,9 +4965,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -5267,9 +5105,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R287") (unit 1)
         )
@@ -5330,9 +5165,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R298") (unit 1)
         )
@@ -5363,9 +5195,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -5400,9 +5229,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "C?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "C156") (unit 1)
         )
@@ -5433,9 +5259,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -5508,9 +5331,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R279") (unit 1)
         )
@@ -5541,9 +5361,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -5645,9 +5462,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "C?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "C152") (unit 1)
         )
@@ -5678,9 +5492,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -5715,9 +5526,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R276") (unit 1)
         )
@@ -5728,7 +5536,7 @@
   (symbol (lib_id "power:GNDREF") (at 87.63 130.81 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ab76f807-f188-4dc0-913b-fcfaca9c04fc)
-    (property "Reference" "#PWR?" (at 87.63 137.16 0)
+    (property "Reference" "#PWR0343" (at 87.63 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 87.63 134.9431 0)
@@ -5743,9 +5551,6 @@
     (pin "1" (uuid d990afda-9979-4f9c-9530-d1166fb42c23))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0343") (unit 1)
         )
@@ -5776,9 +5581,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -5815,9 +5617,6 @@
           (reference "RV?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463"
-          (reference "RV?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "RV?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -5859,7 +5658,7 @@
   (symbol (lib_id "power:GNDREF") (at 181.61 60.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b0e2eff8-56ef-402f-8747-ece6a890fd39)
-    (property "Reference" "#PWR?" (at 181.61 67.31 0)
+    (property "Reference" "#PWR0354" (at 181.61 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 181.61 65.0931 0)
@@ -5874,9 +5673,6 @@
     (pin "1" (uuid 5c154ff8-dba2-4007-be5a-0e8296c6c924))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0354") (unit 1)
         )
@@ -5909,9 +5705,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R265") (unit 1)
         )
@@ -5942,9 +5735,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -6008,9 +5798,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R304") (unit 1)
         )
@@ -6041,9 +5828,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -6106,9 +5890,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R278") (unit 1)
         )
@@ -6119,7 +5900,7 @@
   (symbol (lib_id "power:GNDREF") (at 62.23 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bd9be531-c9dc-4965-8f89-b29390afe99a)
-    (property "Reference" "#PWR?" (at 62.23 50.8 0)
+    (property "Reference" "#PWR0333" (at 62.23 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 62.23 48.5831 0)
@@ -6134,9 +5915,6 @@
     (pin "1" (uuid d8a23f73-3407-4d19-9080-1def00475be5))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0333") (unit 1)
         )
@@ -6147,7 +5925,7 @@
   (symbol (lib_id "power:GNDREF") (at 240.03 43.18 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be83ca6c-8e25-4790-b19a-78ce98371aa6)
-    (property "Reference" "#PWR?" (at 240.03 49.53 0)
+    (property "Reference" "#PWR0362" (at 240.03 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 240.03 47.3131 0)
@@ -6162,9 +5940,6 @@
     (pin "1" (uuid 630265bf-38a9-43c5-840e-adaf2b34783b))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0362") (unit 1)
         )
@@ -6241,7 +6016,7 @@
   (symbol (lib_id "power:GNDREF") (at 166.37 49.53 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c74b5335-b1e7-43bf-928b-dfa92b1133d9)
-    (property "Reference" "#PWR?" (at 166.37 55.88 0)
+    (property "Reference" "#PWR0350" (at 166.37 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 166.37 53.6631 0)
@@ -6256,9 +6031,6 @@
     (pin "1" (uuid a41ffaf3-343b-41bd-aae9-b609ab2d0fb1))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0350") (unit 1)
         )
@@ -6388,9 +6160,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463"
           (reference "RV?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "RV?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "RV74") (unit 1)
         )
@@ -6459,9 +6228,6 @@
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "R?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "R?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -6568,9 +6334,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "C?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "C145") (unit 1)
         )
@@ -6630,9 +6393,6 @@
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "C?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
           (reference "C?") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
@@ -6772,9 +6532,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "R?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "R275") (unit 1)
         )
@@ -6825,7 +6582,7 @@
   (symbol (lib_id "power:GNDREF") (at 194.31 139.7 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e150365d-6954-4509-97ce-14d011bc88df)
-    (property "Reference" "#PWR?" (at 194.31 146.05 0)
+    (property "Reference" "#PWR0356" (at 194.31 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 194.31 143.8331 0)
@@ -6840,9 +6597,6 @@
     (pin "1" (uuid 02f3bccf-5c5f-44e0-8d6b-241fcf910b6c))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0356") (unit 1)
         )
@@ -6920,7 +6674,7 @@
   (symbol (lib_id "power:GNDREF") (at 71.12 130.81 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eaee290d-3d06-4539-be4a-4fa08022687b)
-    (property "Reference" "#PWR?" (at 71.12 137.16 0)
+    (property "Reference" "#PWR0338" (at 71.12 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 71.12 134.9431 0)
@@ -6935,9 +6689,6 @@
     (pin "1" (uuid a931b383-2294-4444-89c4-2380aa9f87ba))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0338") (unit 1)
         )
@@ -7077,7 +6828,7 @@
   (symbol (lib_id "power:GNDREF") (at 186.69 128.27 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fba860f9-aa2c-4b43-9d8f-1540fe499b80)
-    (property "Reference" "#PWR?" (at 186.69 134.62 0)
+    (property "Reference" "#PWR0355" (at 186.69 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GNDREF" (at 186.69 132.4031 0)
@@ -7092,9 +6843,6 @@
     (pin "1" (uuid 45ecbe84-2411-45ba-91d3-dd0ae4d5db03))
     (instances
       (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/a375340f-942f-4f4c-a832-100cca10d9ad"
-          (reference "#PWR?") (unit 1)
-        )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/0e948a88-c071-4754-aa3e-af223f738530"
           (reference "#PWR0355") (unit 1)
         )

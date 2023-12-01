@@ -2523,9 +2523,6 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "SW12") (unit 1)
         )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ec5d34db-41b8-43d0-b97a-f96177babae9"
-          (reference "SW?") (unit 1)
-        )
       )
     )
   )

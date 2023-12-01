@@ -1531,7 +1531,7 @@
     (property "Value" "Noise Out" (at 103.6828 93.1164 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SynthProjConnectors:PJ-358" (at 102.87 99.06 0)
+    (property "Footprint" "SynthProjConnectors:PJ-301" (at 102.87 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 102.87 99.06 0)

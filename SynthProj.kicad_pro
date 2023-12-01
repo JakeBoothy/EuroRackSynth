@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.1,
-          "height": 3.0,
-          "width": 4.0
+          "drill": 2.2,
+          "height": 1.8,
+          "width": 3.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -48,7 +48,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -165,8 +171,16 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.3556
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
@@ -512,36 +526,8 @@
       "Sample&Hold"
     ],
     [
-      "83f63f47-5f59-465e-b73f-db84e2bb89da",
-      "SequencerClocking"
-    ],
-    [
-      "627a6224-0696-4472-8130-0038baa573b5",
-      "SequencerRandomGenerator"
-    ],
-    [
-      "bf5024d8-e176-4aac-a2d8-4c0a3d62967e",
-      "SequencerInput"
-    ],
-    [
-      "a375340f-942f-4f4c-a832-100cca10d9ad",
-      "SequencerAnalogGenerator"
-    ],
-    [
       "0e948a88-c071-4754-aa3e-af223f738530",
       "PT2399Echo"
-    ],
-    [
-      "891afddb-f75e-4ea6-80b3-8ff315aac97b",
-      "VariClock1"
-    ],
-    [
-      "ec5d34db-41b8-43d0-b97a-f96177babae9",
-      "VariClock2"
-    ],
-    [
-      "3d6529f5-b3a9-4251-908f-b3d90fb0675e",
-      "VariClock3"
     ],
     [
       "2f8f79cd-08c7-4a3d-ab4d-798613b0e4e6",
