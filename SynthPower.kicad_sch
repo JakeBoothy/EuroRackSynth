@@ -1817,7 +1817,7 @@
     (property "Value" "BUF634AIDDAR" (at 120.1722 47.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SOIC127P600X170-9N" (at 114.935 40.64 0)
+    (property "Footprint" "Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.514x3.2mm_ThermalVias" (at 114.935 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/buf634a.pdf?ts=1599672549445&ref_url=https%253A%252F%252Fwww.mouser.co.uk%252F" (at 114.935 43.18 0)
