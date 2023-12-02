@@ -2670,69 +2670,6 @@
     (uuid fc958656-48a2-4eb5-b751-b67f2a040e02)
   )
 
-  (symbol (lib_id "Amplifier_Operational:TL072") (at 218.44 88.9 0) (unit 3)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 00000000-0000-0000-0000-0000662886ba)
-    (property "Reference" "U13" (at 217.3732 87.7316 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "TL072" (at 217.3732 90.043 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Package_SO:SOP-8_3.9x4.9mm_P1.27mm" (at 218.44 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 218.44 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "8" (uuid 84f181ba-cad4-4223-ba48-e20162514588))
-    (pin "2" (uuid ba166951-cfa8-4cf2-8963-df4b054218fd))
-    (pin "5" (uuid 2ae24381-5612-45e0-a0b8-69bf9648917a))
-    (pin "6" (uuid 383a475b-2b9f-44de-a52a-feed722757ab))
-    (pin "7" (uuid 5a3989c0-320c-494f-ad3d-5de78d8fc3f3))
-    (pin "4" (uuid ecf28ccf-17b6-486e-9750-6bd2192a71bc))
-    (pin "1" (uuid d6aa373f-fd59-445c-a91f-c31cb1828daf))
-    (pin "3" (uuid 91f88386-55eb-46e7-aa90-4524112097fc))
-    (instances
-      (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006620617f"
-          (reference "U13") (unit 3)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "U?") (unit 3)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+12V") (at 215.9 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 00000000-0000-0000-0000-000066288975)
-    (property "Reference" "#PWR0199" (at 215.9 85.09 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+12V" (at 216.281 76.8858 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 215.9 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 215.9 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 76cc9d28-9b9d-4d1f-be42-fbfe65af58f0))
-    (instances
-      (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006620617f"
-          (reference "#PWR0199") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR?") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:+12V") (at 223.52 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00006628897b)
@@ -2781,34 +2718,6 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006620617f"
           (reference "#PWR0202") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "#PWR?") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:-12V") (at 215.9 96.52 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 00000000-0000-0000-0000-000066288987)
-    (property "Reference" "#PWR0200" (at 215.9 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "-12V" (at 215.519 100.9142 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 215.9 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 215.9 96.52 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid d1129096-1e96-420b-8777-c53a421828b7))
-    (instances
-      (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006620617f"
-          (reference "#PWR0200") (unit 1)
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
