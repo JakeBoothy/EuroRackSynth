@@ -1145,7 +1145,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bf155039-be65-4fa7-8878-ae1190824b02)
   )
-  (text "VCA Modulation" (at 86.36 50.8 0)
+  (text "VCA Modulation" (at 86.36 45.72 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d8cfde5d-ccb4-404d-a63b-101156169926)
   )
