@@ -1345,7 +1345,7 @@
     (property "Value" "SW_SPDT" (at 76.2 40.7924 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SynthProjConnectors:MTS-103-A01-T0" (at 76.2 45.72 0)
+    (property "Footprint" "SynthProjConnectors:SMTS-102" (at 76.2 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 76.2 45.72 0)

@@ -1339,6 +1339,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "#PWR0174") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0253") (unit 1)
+        )
       )
     )
   )
@@ -1363,6 +1366,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "#PWR0175") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0254") (unit 1)
         )
       )
     )
@@ -1390,6 +1396,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "C63") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "C108") (unit 1)
+        )
       )
     )
   )
@@ -1415,6 +1424,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "C65") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "C110") (unit 1)
         )
       )
     )
@@ -1445,6 +1457,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "C112") (unit 1)
+        )
       )
     )
   )
@@ -1470,6 +1485,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "C64") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "C109") (unit 1)
         )
       )
     )
@@ -1497,6 +1515,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "C66") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "C111") (unit 1)
+        )
       )
     )
   )
@@ -1522,6 +1543,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "C68") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "C113") (unit 1)
         )
       )
     )
@@ -1558,6 +1582,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "U?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "U20") (unit 1)
+        )
       )
     )
   )
@@ -1588,6 +1615,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "Q?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "Q27") (unit 1)
+        )
       )
     )
   )
@@ -1614,6 +1644,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "D6") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "D36") (unit 1)
+        )
       )
     )
   )
@@ -1639,6 +1672,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "D7") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -1668,6 +1704,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R211") (unit 1)
         )
       )
     )
@@ -1701,6 +1740,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "U13") (unit 2)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "U20") (unit 2)
+        )
       )
     )
   )
@@ -1728,6 +1770,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0244") (unit 1)
         )
       )
     )
@@ -1758,6 +1803,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R215") (unit 1)
+        )
       )
     )
   )
@@ -1783,6 +1831,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "D8") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -1811,6 +1862,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0245") (unit 1)
         )
       )
     )
@@ -1841,6 +1895,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R216") (unit 1)
+        )
       )
     )
   )
@@ -1869,6 +1926,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R217") (unit 1)
         )
       )
     )
@@ -1899,6 +1959,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R218") (unit 1)
+        )
       )
     )
   )
@@ -1927,6 +1990,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "C107") (unit 1)
         )
       )
     )
@@ -1957,6 +2023,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R221") (unit 1)
+        )
       )
     )
   )
@@ -1970,7 +2039,7 @@
     (property "Value" "SW_Push_DPDT" (at 158.75 62.3824 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SynthProjConnectors:MTS-203-A1-T0" (at 158.75 67.31 0)
+    (property "Footprint" "SynthProjConnectors:SMTS-202" (at 158.75 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 158.75 67.31 0)
@@ -1986,6 +2055,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "SW13") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "SW28") (unit 1)
         )
       )
     )
@@ -2016,6 +2088,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R212") (unit 1)
+        )
       )
     )
   )
@@ -2044,6 +2119,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R213") (unit 1)
         )
       )
     )
@@ -2074,6 +2152,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R214") (unit 1)
+        )
       )
     )
   )
@@ -2101,6 +2182,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0243") (unit 1)
         )
       )
     )
@@ -2135,6 +2219,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463"
           (reference "RV?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "RV48") (unit 1)
+        )
       )
     )
   )
@@ -2148,7 +2235,7 @@
     (property "Value" "SW_SPDT" (at 71.12 120.8024 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SynthProjConnectors:MTS-103-A01-T0" (at 71.12 125.73 0)
+    (property "Footprint" "SynthProjConnectors:SMTS-102" (at 71.12 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 71.12 125.73 0)
@@ -2161,6 +2248,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "SW11") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "SW26") (unit 1)
         )
       )
     )
@@ -2189,6 +2279,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0246") (unit 1)
         )
       )
     )
@@ -2219,6 +2312,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R219") (unit 1)
+        )
       )
     )
   )
@@ -2248,6 +2344,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "R?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "R220") (unit 1)
+        )
       )
     )
   )
@@ -2275,6 +2374,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0247") (unit 1)
         )
       )
     )
@@ -2309,6 +2411,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463"
           (reference "RV?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "RV49") (unit 1)
+        )
       )
     )
   )
@@ -2336,6 +2441,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0249") (unit 1)
         )
       )
     )
@@ -2365,6 +2473,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0252") (unit 1)
+        )
       )
     )
   )
@@ -2393,6 +2504,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "C106") (unit 1)
         )
       )
     )
@@ -2424,6 +2538,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "#PWR015") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0251") (unit 1)
         )
       )
     )
@@ -2463,6 +2580,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "U13") (unit 3)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "U20") (unit 3)
+        )
       )
     )
   )
@@ -2476,7 +2596,7 @@
     (property "Value" "SMTS-103-A1-T0" (at 133.35 59.8424 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "SynthProjConnectors:MTS-103-A01-T0" (at 133.35 64.77 0)
+    (property "Footprint" "SynthProjConnectors:SMTS-102" (at 133.35 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 133.35 64.77 0)
@@ -2489,6 +2609,9 @@
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "SW12") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "SW27") (unit 1)
         )
       )
     )
@@ -2521,6 +2644,9 @@
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-000066b08086"
           (reference "#PWR05") (unit 1)
         )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0250") (unit 1)
+        )
       )
     )
   )
@@ -2548,6 +2674,9 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "#PWR?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/ecb6a5e5-382b-482a-961b-02eec3fee7f6"
+          (reference "#PWR0248") (unit 1)
         )
       )
     )
