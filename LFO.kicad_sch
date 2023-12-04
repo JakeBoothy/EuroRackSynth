@@ -1819,7 +1819,7 @@
     (property "Value" "LED" (at 131.2672 106.7308 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (at 128.27 105.41 0)
+    (property "Footprint" "LED_THT:LED_D3.0mm" (at 128.27 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 128.27 105.41 0)
