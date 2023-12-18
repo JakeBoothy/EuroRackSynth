@@ -538,14 +538,6 @@
     [
       "0e948a88-c071-4754-aa3e-af223f738530",
       "PT2399Echo"
-    ],
-    [
-      "2f8f79cd-08c7-4a3d-ab4d-798613b0e4e6",
-      "RP2040Microcontroller"
-    ],
-    [
-      "b7926a34-b39e-4f5f-b85d-b7e065fdd5f5",
-      "SynthPower"
     ]
   ],
   "text_variables": {}

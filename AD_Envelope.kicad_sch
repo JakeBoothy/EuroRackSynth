@@ -6212,14 +6212,14 @@
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf" (at 219.71 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 8ee34a8b-4f86-4876-b1c6-225f1beb9a28))
+    (pin "2" (uuid 8ee34a8b-4f86-4876-b1c6-225f1beb9a29))
     (pin "5" (uuid f9b29fd0-5d62-4100-8630-95a15e1d4902))
-    (pin "1" (uuid 114ae5a5-a39e-4a2a-9d40-e7b926aea325))
+    (pin "1" (uuid 114ae5a5-a39e-4a2a-9d40-e7b926aea326))
     (pin "6" (uuid 5f71b7fd-a680-49dc-ad40-7d44a86df15c))
-    (pin "3" (uuid 8bbcb7c5-1587-423d-b58c-d74ae03def79))
-    (pin "8" (uuid 99961735-527d-4e44-91ab-1596aa733dfc))
+    (pin "3" (uuid 8bbcb7c5-1587-423d-b58c-d74ae03def7a))
+    (pin "8" (uuid 99961735-527d-4e44-91ab-1596aa733dfd))
     (pin "7" (uuid 46f69823-7f85-46a9-bdf5-cbacccc600ea))
-    (pin "4" (uuid 1465b11c-5873-46f7-8362-9635f9c4a939))
+    (pin "4" (uuid 1465b11c-5873-46f7-8362-9635f9c4a93a))
     (instances
       (project "SynthProj"
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006620617f"
