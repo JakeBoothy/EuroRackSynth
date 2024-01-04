@@ -1356,39 +1356,6 @@
     )
   )
 
-  (symbol (lib_id "SynthProj-rescue:R_POT_US-Device") (at 128.27 88.9 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 00000000-0000-0000-0000-0000661ac7b2)
-    (property "Reference" "RV22" (at 126.5682 87.7316 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Value" "50k" (at 126.5682 90.043 0)
-      (effects (font (size 1.27 1.27)) (justify right))
-    )
-    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" (at 128.27 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 128.27 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "2" (uuid cab7b637-7ec0-4544-89f9-f85ef3188bfc))
-    (pin "3" (uuid b9479d8c-3fb5-4e66-941d-f449da5bf215))
-    (pin "1" (uuid 21037897-5f72-4083-8744-89f4d63d811f))
-    (instances
-      (project "SynthProj"
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006611e0f5"
-          (reference "RV22") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
-          (reference "RV?") (unit 1)
-        )
-        (path "/9021c97e-351f-4ed9-b393-50257df6a463"
-          (reference "RV?") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:GNDREF") (at 128.27 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-0000661ac7b9)
@@ -1901,6 +1868,39 @@
         )
         (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
           (reference "C?") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "SynthProj-rescue:R_POT_US-Device") (at 128.27 88.9 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 455a2d7d-cbc2-49e1-9fc8-457daad9cd2d)
+    (property "Reference" "RV22" (at 126.5682 87.7316 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "50k" (at 126.5682 90.043 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical" (at 128.27 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 128.27 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "3" (uuid 5874ca83-0661-4b2d-8e77-21a40de7d15e))
+    (pin "2" (uuid fcbfa36d-97a0-46c1-bcb6-0bc166dfe58b))
+    (pin "1" (uuid 0584dd53-4dab-41ff-8150-7eaabeb7a142))
+    (instances
+      (project "SynthProj"
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-00006611e0f5"
+          (reference "RV22") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463/00000000-0000-0000-0000-0000659a4e2e"
+          (reference "RV?") (unit 1)
+        )
+        (path "/9021c97e-351f-4ed9-b393-50257df6a463"
+          (reference "RV?") (unit 1)
         )
       )
     )
